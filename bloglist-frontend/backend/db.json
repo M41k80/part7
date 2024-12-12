@@ -1,0 +1,73 @@
+{
+  "blogs": [
+    {
+      "title": "lukas es un bebe",
+      "author": "m41k80",
+      "url": "https://test.com/example",
+      "likes": 14,
+      "id": 1733959120487,
+      "comments": [
+        "lukas es un hermoso",
+        "hi"
+      ]
+    },
+    {
+      "title": "lukas es un perrito",
+      "author": "m41k80",
+      "url": "https://example.com/nuevo-blog",
+      "likes": 5,
+      "id": 1733961039006,
+      "comments": []
+    },
+    {
+      "title": "lukas es un perrito hermoso",
+      "author": "m41k80",
+      "url": "https://example.com/nuevo-blog",
+      "likes": 16,
+      "id": 1733961039007,
+      "comments": []
+    },
+    {
+      "title": "lukas es un perrito gordo",
+      "author": "ame",
+      "url": "https://example.com/nuevo-blog",
+      "likes": 17,
+      "id": 1733961039008,
+      "comments": []
+    },
+    {
+      "title": "lukas es un perrito chaparrito",
+      "author": "ame",
+      "url": "https://example.com/nuevo-blog",
+      "likes": 19,
+      "id": 1733961039009,
+      "comments": []
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "usuario1",
+      "password": "password123",
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "username": "m41k80",
+      "password": "123456789",
+      "name": "M41k"
+    },
+    {
+      "id": 3,
+      "username": "lukas",
+      "password": "123456789",
+      "name": "Lukas"
+    },
+    {
+      "id": 4,
+      "username": "ame",
+      "password": "123456",
+      "name": "Ame"
+    }
+  ]
+}
